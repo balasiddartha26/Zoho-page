@@ -1,0 +1,140 @@
+
+.container3 .dropdown-content a:hover{
+    color:black;
+  } 
+  .container3 img{
+    width:100px;
+    height:40px;
+    padding-left: 100px;
+  }
+  .container3{
+    padding-top: 2px;
+  }
+  
+  .container4{
+    height:700px;
+    background-color: blue;
+    margin:0px;
+  }
+  .column1{
+  
+     float: left;
+     width:50%;
+     color:white;
+     font-size: 30px;
+     text-align: center;
+     padding-top: 80px;
+     display: block;
+  }
+  .row::after{
+    content: "";
+    display:table;
+    clear:both;
+  }
+  p{
+    padding-left: 100px;
+    font-size: 20px;
+  
+  }
+  .container4 input{
+         width:400px;
+         height:30px;
+         background-color: #7091F5;
+         border-radius: 10px;
+         
+  }
+  .inputbox ::placeholder{
+    color:white;
+    padding-left: 10px;
+  }
+  .container5{
+    background-color: blue;
+    height:130px;
+  }
+  .column2{
+    float:left;
+    width:40%;
+    background-color: lightgrey;
+    display: block;
+    height:130px;
+    border-top-left-radius: 10px;
+    margin-left: 150px;
+  }
+  .container5 img{
+    height:80px;
+    width:80px;
+    border-radius: 10px;
+    float: left;  
+  }
+  .column3{
+    float:left;
+    width:40%;
+    display:block;
+    background-color: lightgray;
+    margin:0px;
+    height:130px;
+    border-top-right-radius: 10px;
+  }
+  .container6{
+     background-color: #2C3333;
+     height:150px;
+     display: flex;
+  }
+  .row::after{
+    content: "";
+    display:table;
+    clear:both;
+  }
+  .column4{
+    float:left;
+    width:100%;
+    display:block;
+    background-color: white;
+    margin-left: 150px;
+    height:130px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+  }
+.container6 img{
+    height:100px;
+    width:112px;
+    border-radius: 10px;
+    float: left;  
+}
+
+.container7{
+  background-color: #2C3333;
+  height:500px;
+  
+}
+.column5{
+  color:white;
+  text-align: center;
+  padding-top: 80px; 
+}
+
+.container8{
+  background-color: #2C3333;
+  height:600px;
+  display: flex; 
+}
+.img1{
+  width: 250px;
+  height:400px;
+  margin-left: 240px;
+  position:relative;
+}
+
+.img2{
+  
+  width:200px;
+  height:500px;
+}
+.container8 .img3{
+  background-image: url(https://www.zohowebstatic.com/sites/zweb/images/crm/zcrm-twitter-reply.svg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-left: 200px;
+  width: 400px;
+  height:300px;
+}

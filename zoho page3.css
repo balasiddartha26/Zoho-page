@@ -1,0 +1,235 @@
+
+.container9{
+    background-color: white;
+    height:350px;
+  }
+  .column6{
+    color:blue;
+    text-align: center;
+    padding-top: 100px; 
+  }
+  .container9 button{
+    background-color: red;
+    color:white;
+    height:50px;
+    width:200px;
+    border:1px solid white;
+    border-radius: 10px;
+  }
+  .container10{
+    background-color: white;
+    height:320px;
+  }
+  .column7{
+    color:black;
+    text-align: center;
+    padding-top: 10px; 
+  }
+  
+  .container11{
+    background-color: white;
+    height:580px;
+    display:flex;
+  }
+  .img4{
+    width: 600px;
+    height:00px;
+    margin-left: 150px;
+    padding-top: 50px;
+  
+  }
+  .img5{
+    width:250px;
+    height:500px;  
+  }
+  .img6{
+    width:300px;
+    height:500px;
+    margin-left: 130px;
+  }
+  
+  .container12{
+    background-color: blue;
+    height:330px;
+  }
+  .column8{
+     text-align: center;
+     padding-top: 50px;
+     color:white;
+  }
+  
+  .container13{
+    background-color: blue;
+    height:220px;
+    display: flex;
+    width:100%;
+  }
+  .column9{
+    float:left;
+    width:100%;
+    display:block;
+    background-color: blue;
+    margin-left: 150px; 
+  }
+  .container14{
+    background-color: blue;
+    height:250px;
+    display: flex;
+    width:100%;
+  }
+  .column10{
+    float:left;
+    width:100%;
+    display:block;
+    background-color: blue;
+    margin-left: 150px; 
+  }
+  
+  .container15{
+    background-color: blue;
+    height:400px;
+  }
+  .column11{
+     text-align: center;
+     padding-top: 50px;
+     color:white;
+  }
+  
+  .container16{
+    background-color: blue;
+    height:600px;
+  }
+  
+  .container17{
+    background-color: lightgrey;
+    height:750px;
+  }
+  .column12{
+    padding-top: 100px;
+    color:black;
+    width:50%;
+    float:left;
+  }
+  .column13{
+    width:50%;
+    float: left;
+    display: block;
+    margin-top: 100px;
+  
+  }
+  .column14{
+    position:absolute;
+    margin-top: 300px;
+    margin-left:350px;
+  }
+  
+  .container18{
+    background-color: lightgrey;
+    height:400px;
+  }
+  .column15{
+     float:left;
+     width:20%;
+     padding:20px;
+     margin-left: 100px;
+     margin-top: 100px;
+     background-color:lightgray;
+     text-align: center;
+  }
+  
+  .container19{
+    background-color: lightgray;
+    height:830px;
+  }
+  .column16{
+    float:left;
+    width:80%;
+    background-color:#2C3333 ;
+    border-radius: 30px;
+    margin: 50px;
+    padding: 100px;
+  }
+  
+  .container20{
+    background-color: lightgray;
+    height:150px;
+  }
+  .column17{
+    float:left;
+    width:100%;
+  }
+   
+  .container21{
+    background-color: lightgray;
+    height:400px;
+  }
+  .column18{
+    float:left;
+    width:30%;
+    background-color: blue;
+    color:white;
+    margin-left: 100px;
+    height:300px;
+    border-radius: 20px;
+  }
+  span.scroll{
+    display:inline-block;
+    padding:10px;
+    border:1px solid blue;
+  }
+  
+  .container22{
+     background-color: white;
+     height:600px;
+  }
+  .column19{
+    width:100%;
+    text-align: center;
+    padding-top:100px;
+  }
+  .container22 button{
+    background-color: red;
+    color:white;
+    height:50px;
+    width:200px;
+    border:1px solid white;
+    border-radius: 10px;
+  }
+  
+  .container23{
+    background-color: lightgray;
+    height:400px;
+  }
+  .scrollcontent{
+    overflow: auto;
+    white-space: nowrap;
+    border-top: 10px;
+    margin-left: 200px;
+    padding-top: 60px;
+    width:70%;
+    float:left;
+  }
+  .scrollcontent p{
+    display:inline-block;
+    color:black;
+    padding:15px;
+  }
+  .container24{
+    background-color: #2C3333;
+    height:650px;
+  }
+  .column20{
+    float:left;
+    width:17%;
+    background-color:  #2C3333;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding: 20px;
+  }
+  .container24 a{
+    text-decoration: none;
+    color:white;
+  }
+  .container24 a:hover{
+    color:red;
+  }
